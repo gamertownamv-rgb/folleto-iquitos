@@ -1,0 +1,30 @@
+Integrando Bootstrap a través del CDN
+El CDN es, básicamente, un conjunto de servidores distribuidos geográficamente que trabajan juntos para proporcionar contenidos 
+a los usuarios de manera rápida y eficiente
+
+utilizar un CDN para Bootstrap te permite aprovechar la infraestructura optimizada y la velocidad de entrega de contenido 
+para mejorar la experiencia de tus usuarios al cargar tu página web.
+
+
+
+
+
+
+
+
+
+Tarea: Crear una página web simple utilizando HTML, Bootstrap y CDN
+
+Descripción: Diseña una página web simple que muestre información sobre un tema de tu elección. Puede ser un hobby, un lugar turístico, un personaje histórico, etc.
+Requisitos:
+Utiliza HTML para estructurar tu página.
+Integra Bootstrap utilizando el CDN de Bootstrap para aplicar estilos y componentes.
+Incluye al menos una barra de navegación, un jumbotron (un gran contenedor de texto) y un par de elementos de tu elección de la biblioteca de Bootstrap (como botones, tarjetas, etc.).
+Agrega imágenes y texto relevantes para ilustrar y describir tu tema.
+Asegúrate de que la página sea visualmente atractiva y tenga un diseño coherente.
+Entrega:
+Sube tu página a un servidor web o compártela utilizando una plataforma de alojamiento gratuito como GitHub Pages.
+Proporciona el enlace a tu página para que pueda ser revisada.
+Presentación:
+Durante tu exposición, muestra tu página web y explícala brevemente.
+Destaca cómo utilizaste HTML para estructurar el contenido, cómo integraste Bootstrap para aplicar estilos y cómo combinaste ambos para crear una experiencia visualmente atractiva para el usuario.

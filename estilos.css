@@ -1,0 +1,32 @@
+html { scroll-behavior: smooth; }
+
+.hero-img {
+    height: 380px;
+    object-fit: cover;
+    filter: brightness(0.75);
+}
+
+.img-tarjeta {
+    height: 190px;
+    object-fit: cover;
+    transition: opacity 0.5s ease-in-out;
+}
+
+.tarjeta-animada {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.tarjeta-animada:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15) !important;
+}
+
+/* Ajuste adaptable para celulares (pantallas menores a 768px) */
+@media (max-width: 768px) {
+    .hero-img {
+        height: 240px;
+    }
+    .img-tarjeta {
+        height: 160px;
+    }
+}
